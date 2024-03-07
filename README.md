@@ -1,3 +1,18 @@
+# Introduction
+This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.
+
+# Table of Contents
+- [Styles and Conventions](#styles-and-conventions)
+    - [Lazy programming](#Lazy-programming)
+ 
+
+
+This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.This style guide describes the preferred style for code written as part of the Flutter project (the framework itself and all our sample code). Flutter application developers are welcome to follow this style as well, but this is by no means required. Flutter will work regardless of what style is used to author applications that use it.
+
+# Lazy-programming
+   
+
+
 # flutter_codding_style
 Tài liệu tham khảo: https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo/5c279fe8d7b52d31ebcf05385f69c636a6b8e676#philosophy
 
